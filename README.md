@@ -48,7 +48,7 @@ Passionate about building scalable web applications, distributed services, and d
 ### 📊 GitHub Contributions
 
 <div align="center">
-  ![My 3D Git History](./profile-3d-contrib/profile-gitblock.svg)
+  ![My 3D Git History](./assets/contributions/profile-gitblock.svg)
 </div>
 
 ---
