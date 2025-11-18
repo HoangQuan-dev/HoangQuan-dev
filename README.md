@@ -45,6 +45,14 @@ Passionate about building scalable web applications, distributed services, and d
 
 ---
 
+### 📊 GitHub Contributions
+
+<div align="center">
+  <img src="https://github.com/HoangQuan-dev/HoangQuan-dev/blob/main/profile-3d-contrib.svg" alt="3D Contribution Graph" />
+</div>
+
+---
+
 ### 🤝 Connect With Me
 
 <div align="center">
