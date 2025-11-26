@@ -15,7 +15,7 @@ Passionate about building scalable web applications, distributed services, and d
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Core Skills (Daily Use):**
 
@@ -45,15 +45,13 @@ Passionate about building scalable web applications, distributed services, and d
 
 ---
 
-### 📊 GitHub Contributions
+### GitHub Contributions
 
-<div align="center">
-  ![My 3D Git History](./profile-3d-contrib/profile-gitblock.svg)
-</div>
+![My 3D Git History](./profile-3d-contrib/profile-gitblock.svg)
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <div align="center">
   <a href="https://github.com/HoangQuan-dev" target="_blank">
